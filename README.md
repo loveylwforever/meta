@@ -51,7 +51,7 @@ meta
 
 ### 本地开发 运行
 
-meta 提供了详细的[部署文档 wiki.metax.vip](https://www.yuque.com/meta4cloud/meta/vsdox9)，包括开发环境安装、服务端代码运行、前端代码运行等。
+meta 提供了详细的[部署文档 wiki.pigx.vip](https://www.yuque.com/pig4cloud/pig/vsdox9)，包括开发环境安装、服务端代码运行、前端代码运行等。
 
 请务必**完全按照**文档部署运行章节 进行操作，减少踩坑弯路！！
 
