@@ -1,0 +1,7 @@
+com.loveylwforever.meta.admin.api.feign.RemoteClientDetailsService
+com.loveylwforever.meta.admin.api.feign.RemoteDictService
+com.loveylwforever.meta.admin.api.feign.RemoteDeptService
+com.loveylwforever.meta.admin.api.feign.RemoteLogService
+com.loveylwforever.meta.admin.api.feign.RemoteTokenService
+com.loveylwforever.meta.admin.api.feign.RemoteUserService
+com.loveylwforever.meta.admin.api.feign.RemoteParamService

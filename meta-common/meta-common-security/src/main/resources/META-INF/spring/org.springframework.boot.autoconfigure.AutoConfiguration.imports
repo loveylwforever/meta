@@ -1,0 +1,7 @@
+com.loveylwforever.meta.common.security.service.MetaUserDetailsServiceImpl
+com.loveylwforever.meta.common.security.service.MetaAppUserDetailsServiceImpl
+com.loveylwforever.meta.common.security.service.MetaRedisOAuth2AuthorizationService
+com.loveylwforever.meta.common.security.service.MetaRedisOAuth2AuthorizationConsentService
+com.loveylwforever.meta.common.security.component.MetaSecurityInnerAspect
+com.loveylwforever.meta.common.security.component.MetaSecurityMessageSourceConfiguration
+com.loveylwforever.meta.common.security.service.MetaRemoteRegisteredClientRepository

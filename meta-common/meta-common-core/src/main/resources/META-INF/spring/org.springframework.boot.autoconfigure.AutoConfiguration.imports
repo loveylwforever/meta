@@ -1,0 +1,6 @@
+com.loveylwforever.meta.common.core.config.TaskExecutorConfiguration
+com.loveylwforever.meta.common.core.config.JacksonConfiguration
+com.loveylwforever.meta.common.core.config.RedisTemplateConfiguration
+com.loveylwforever.meta.common.core.config.RestTemplateConfiguration
+com.loveylwforever.meta.common.core.util.SpringContextHolder
+com.loveylwforever.meta.common.core.config.WebMvcConfiguration

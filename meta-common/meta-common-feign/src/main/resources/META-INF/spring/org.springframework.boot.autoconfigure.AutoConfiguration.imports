@@ -1,0 +1,3 @@
+com.loveylwforever.meta.common.feign.MetaFeignAutoConfiguration
+com.loveylwforever.meta.common.feign.sentinel.SentinelAutoConfiguration
+com.loveylwforever.meta.common.feign.sentinel.handle.GlobalBizExceptionHandler
