@@ -22,8 +22,6 @@
 ### 模块说明
 
 ```lua
-meta-ui  -- 前端项目
-
 meta
 ├── meta-auth -- 授权服务提供[3000]
 └── meta-common -- 系统公共模块
@@ -49,12 +47,6 @@ meta
      └── meta-xxl-job-admin -- 分布式定时任务管理台 [5004]
 ```
 
-### 本地开发 运行
-
-meta 提供了详细的[部署文档 wiki.pigx.vip](https://www.yuque.com/pig4cloud/pig/vsdox9)，包括开发环境安装、服务端代码运行、前端代码运行等。
-
-请务必**完全按照**文档部署运行章节 进行操作，减少踩坑弯路！！
-
 ### 定制自己的微服务
 
 [meta DIY](https://pig4cloud.com/#/common/diy)
@@ -65,15 +57,7 @@ meta 提供了详细的[部署文档 wiki.pigx.vip](https://www.yuque.com/pig4cl
 
 ```
 # 下载并运行服务端代码
-git clone https://gitee.com/log4j/meta.git
+git clone https://github.com/loveylwforever/meta.git
 
 cd meta && mvn clean install && docker-compose up -d
-
-# 下载并运行前端UI
-git clone https://gitee.com/log4j/meta-ui.git
-
-cd meta-ui && npm install -g cnpm --registry=https://registry.npm.taobao.org
-
-
-cnpm install && cnpm run build:docker && cd docker && docker-compose up -d
 ```

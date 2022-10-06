@@ -39,7 +39,7 @@ public class DataSourceProperties {
 	private String password;
 
 	/**
-	 * jdbcurl
+	 * jdbc url
 	 */
 	private String url;
 
